@@ -1,11 +1,18 @@
 # TTGO-TQ-0.91
-ESP32 TTGO TQ
 
-## Compiling with Platformio (Arduino compatible)
+ESP32 TTGO TQ board.
+
+# Compiling 
+
+## From Arduino IDE
+
+Please first install [Official instructions](https://github.com/espressif/arduino-esp32)
+
+## From Platformio
 
 Please install before, [PlatformIO](http://platformio.org/) open source ecosystem for IoT development compatible with **Arduino** IDE.
 
-## Compiling and installing
+### Compiling and installing
 
 enter to `platformio` directory and run `pio` command:
 ``` bash
