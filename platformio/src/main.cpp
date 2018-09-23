@@ -11,10 +11,10 @@
  *****************************************************/
  
 /* modified font created at http://oleddisplay.squix.ch/ */
-#include "modified_font.h"
 
 /*  SSD1306 */
 #include "SSD1306.h" 
+#include "modified_font.h"
 #define SDA_PIN 5// GPIO21 -> SDA
 #define SCL_PIN 4// GPIO22 -> SCL
 #define SSD_ADDRESS 0x3c
