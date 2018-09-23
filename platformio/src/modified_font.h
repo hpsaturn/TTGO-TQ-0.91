@@ -1,6 +1,6 @@
 // Created by http://oleddisplay.squix.ch/ Consider a donation
 // In case of problems make sure that you are using the font file with the correct version!
-const char Open_Sans_Condensed_Light_20[] PROGMEM = {
+const uint8_t Open_Sans_Condensed_Light_20[] PROGMEM = {
   0x11, // Width: 17
   0x1C, // Height: 28
   0x20, // First Char: 32
